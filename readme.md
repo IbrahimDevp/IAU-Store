@@ -1,0 +1,2 @@
+IAU Store is a local hosted e-commerce developed using HTML, PHP, CSS and JavaScript. (It was developed using XAMPP)
+You need to upload the iau_phone_store.sql file to your database at phpmyadmin to try IAU Store.
